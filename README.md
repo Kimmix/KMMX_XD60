@@ -4,6 +4,7 @@
 * https://xd.tkg.io
 
 ## ⌨️Layout KAT
+![KAT Lyout](/img/KAT_Layout.png)
 ```json
 [{c:"#ff621f"},"Esc",{c:"#f2faff"},"!\n1\n\n\nF1","@\n2\n\n\nF2","#\n3\n\n\nF3","$\n4\n\n\nF4","%\n5\n\n\nF5","^\n6\n\n\nF6","&\n7\n\n\nF7","*\n8\n\n\nF8","(\n9\n\n\nF9",")\n0\n\n\nF10","_\n-\n\n\nF11","+\n=\n\n\nF12","|\n\\","~\n`"],
 [{w:1.5},"Tab","Q","W","E","R","T","Y","U","I\n\n\n\nIns","O","P\n\n\n\nPSc","{\n[\n\n\nScrLk",{a:0},"}\n]\n\n\nPus\nBrk",{a:4,w:1.5},"Backspace"],
