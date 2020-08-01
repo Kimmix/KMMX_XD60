@@ -3,12 +3,13 @@
 * http://www.keyboard-layout-editor.com/#
 * https://xd.tkg.io
 
-## Function
+## 🎲 XD Function
 ```json
 "0":["ACTION_LAYER_MOMENTARY","2"],"1":["ACTION_FUNCTION",1,1],"2":["ACTION_FUNCTION",1,5],"3":["ACTION_FUNCTION",1,4],"4":["ACTION_FUNCTION",1,2],"5":["ACTION_FUNCTION",1,0],"6":["ACTION_LAYER_TAP_KEY","2","KC_BSPACE"],"7":["ACTION_LAYER_TOGGLE",1],"8":["ACTION_NO"]
 ```
 
-## ⌨️Layout KAT
+## ⌨️ Keyboard Layouts 
+### KAT
 ![KAT Layout](/img/KAT_Layout.png)
 ```json
 [{c:"#ff621f"},"Esc",{c:"#f2faff"},"!\n1\n\n\nF1","@\n2\n\n\nF2","#\n3\n\n\nF3","$\n4\n\n\nF4","%\n5\n\n\nF5","^\n6\n\n\nF6","&\n7\n\n\nF7","*\n8\n\n\nF8","(\n9\n\n\nF9",")\n0\n\n\nF10","_\n-\n\n\nF11","+\n=\n\n\nF12","|\n\\","~\n`"],
@@ -18,7 +19,7 @@
 [{w:1.5},"lctrl","lwin",{w:1.25},"lalt",{c:"#ff621f",w:6.25},"spacebar",{c:"#f2faff"},"Fn0","rctrl","←","↓","→"]
 ```
 
-## Layout 60
+### 60
 ![60 Layout](/img/60_Layout.png)
 ```json
 [{c:"#cbcf34",a:0},"Esc\n\n\n\n~\n`",{c:"#eaebca",a:4},"!\n1\n\n\nF1","@\n2\n\n\nF2","#\n3\n\n\nF3","$\n4\n\n\nF4","%\n5\n\n\nF5","^\n6\n\n\nF6","&\n7\n\n\nF7","*\n8\n\n\nF8","(\n9\n\n\nF9",")\n0\n\n\nF10","_\n-\n\n\nF11","+\n=\n\n\nF12",{c:"#64a7bd",w:2},"Fn6"],
