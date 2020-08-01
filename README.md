@@ -2,6 +2,7 @@
 ## 🔗Link
 * http://www.keyboard-layout-editor.com/#
 * https://xd.tkg.io
+* https://chrome.google.com/webstore/detail/tkg-chrome-app/kmbmjdabhpdnpeobnbdchihdcdaccidi
 
 ## 🎲 XD Function
 ```json
